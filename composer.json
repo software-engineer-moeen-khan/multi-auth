@@ -9,7 +9,6 @@
       "email": "moeenkhan028@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "laravel/ui": "^2.0|^3.0",
     "laravel/legacy-factories": "^1.0@dev"
